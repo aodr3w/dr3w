@@ -2,7 +2,7 @@
 
 - Hi, I'm Andrew
 - Programmer & Computer Science graduate.
-- Interested in Distributed Systems Engineering with Rust / Go
+- Interested in Distributed Systems Engineering with Rust / Go / Odin && Game Development
 
 
 ---
